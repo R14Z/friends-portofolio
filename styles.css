@@ -1,0 +1,95 @@
+html {
+    background-color: white;
+    color: black;
+    font-family: 'prompt';
+  }
+
+.main_header {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1rem;
+    position:absolute;
+    left: 40rem;
+    top: 15rem; 
+}
+
+.main_p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 1.5rem;
+  position:absolute;
+  left: 40rem;
+  top: 18.5rem;   
+}
+
+.avatar {
+    position:absolute;
+    left: 65rem;
+    top: 10rem;
+}
+
+.rid {
+  position:absolute;
+  left: 30rem;
+  top: 19px;
+  font-size: 1.2rem;
+  color: rgb(15, 42, 66);
+  font-family: 'Poppins',sans-serif;
+}
+
+.about {
+    position:absolute;
+    left: 102rem;
+    top: 19px;
+    font-size: 1.2rem;
+    color: rgb(15, 42, 66);
+    font-family: 'Poppins',sans-serif;   
+}
+
+.credit {
+  position:absolute;
+  font-size: 1.2rem;
+  color: rgb(15, 42, 66);
+  font-family: 'Poppins',sans-serif;
+  left: 45%;
+  top: 90%
+}
+
+a:link,a:visited,a:hover,a:active {
+  color: black;
+}
+
+.yt-logo {
+    position:absolute;
+    left: 40rem;
+    top: 23rem;
+}
+
+.discord-logo {
+  position:absolute;
+  left: 45rem;
+  top: 23rem;
+}
+
+.desc {
+  position: absolute;
+  text-align: center;
+  top: 40%;
+  font-size: 1.5rem;
+}
+
+.home {
+    position:absolute;
+    left: 95rem;
+    top: 19px;
+    font-size: 1.2rem;
+    color: rgb(15, 42, 66);
+    font-family: 'Poppins',sans-serif;   
+}
+
+.code {
+  position:absolute;
+  left: 110rem;
+  top: 19px;
+  font-size: 1.2rem;
+  color: rgb(15, 42, 66);
+  font-family: 'Poppins',sans-serif;    
+}
